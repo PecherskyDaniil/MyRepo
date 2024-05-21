@@ -47,6 +47,7 @@ while True:
         logger.critical(messages[random1], extra={"http.request.body.content": messages[random1]})
     time.sleep(random2)
 ```
+Данный файл нужен нам для создания логов. Вы можете создать или использовать свой, но учтите в таком случае вам нужно поменять некоторые конфиг filebeat.
 1. Установим filebeat 
 ```
 wget "https://cloud.iszf.irk.ru/index.php/s/AyjAk8tIB2P24H8/download?path=%2F&files=filebeat-8.13.2-amd64.deb" -O filebeat-8.13.2-amd64.deb
