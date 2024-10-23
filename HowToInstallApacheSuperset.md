@@ -3,7 +3,7 @@
 Для начала вам нужно [установить WSL](https://learn.microsoft.com/ru-ru/windows/wsl/install), поскольку Docker Desktop работает с Linux.
 1. После успешной установки WSL, [скачайте Docker Desktop](https://docs.docker.com/desktop/install/windows-install/), и убедитесь что во время загрузки установили опцию **Use WSL 2 instead of Hyper-V**.
 
-2. После установки Docker Desktop, запустите его.
+2. После установки Docker Desktop, запустите его и залогиньтесь/зарегистрируйтесь.
  
 3. Нажмите на строку поиска
    ![image](https://github.com/user-attachments/assets/7d46dad4-66ca-416b-bbbe-8fcc6ead9312)
